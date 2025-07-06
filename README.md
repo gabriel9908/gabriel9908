@@ -1,17 +1,17 @@
-<!-- README.md - Perfil Topzera do Gabriel -->
+<!-- README.md - Perfil Topzera do Gabriel - Estilo Hacker Dark -->
 
 <h1 align="center">Gabriel Santos do Nascimento 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+aprendizagem+constante;Python+%F0%9F%90%8D+%7C+Java+%E2%98%95%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+DevSecOps+%F0%9F%94%91;Tecnologia+com+prop%C3%B3sito+social+e+intelig%C3%AAncia+estrat%C3%A9gica!" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+aprendizagem+constante;Python+🐍+|+Java+☕+|+Docker+🐳+|+DevSecOps+🔐;Tecnologia+com+propósito+social+e+inteligência+estratégica!" />
+</p>
 
 ---
 
 <p align="center">
-  <b>💻 Dev focado em backend, apaixonado por arquitetura, segurança e automação</b><br>
-  <b>🔐 DevSecOps | ☁️ Docker/K8s Lover | 🧠 SOA e Big Data Enthusiast</b><br>
-  <b>🎓 Estudante de ADS | 🧩 Full Stack por necessidade, Backend por paixão ⚙️</b>
+  <strong>💻 Dev focado em backend, apaixonado por arquitetura, segurança e automação</strong><br>
+  <strong>🔐 DevSecOps | ☁️ Docker/K8s Lover | 🧠 SOA e Big Data Enthusiast</strong><br>
+  <strong>🎓 Estudante de ADS | 🧩 Full Stack por necessidade, Backend por paixão ⚙️</strong>
 </p>
 
 ---
@@ -28,20 +28,40 @@
 
 ## 💼 Skills & Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,docker,kubernetes,linux,html,css,postgres,git,github,vscode,figma,linux,selenium,fastapi" />
-</div>
+- 🔧 Linguagens: Python, Java, JavaScript, HTML, CSS
+- ☁️ DevOps: Docker, Kubernetes, GitHub Actions, Jenkins
+- 🛠️ Frameworks & libs: FastAPI, Selenium (sem exageros)
+- 🧠 Banco de Dados: PostgreSQL, SQLite
+- 💻 IDEs & Ferramentas: VSCode, Git, GitHub, Figma, Linux
 
 ---
 
 ## 🛠️ Metodologias e Conceitos
 
-```yaml
-- Scrum, Kanban e XP
-- DevSecOps com pipelines automatizadas
-- SOA como filosofia de vida
-- Docker em tudo (até no micro-ondas)
-- GitFlow sem enrolação
-- RPA + Web scraping + automações com Python
-- CI/CD raiz no GitHub Actions e Jenkins
-- Organização em camadas com Clean Architecture
+- 📌 Scrum, Kanban e XP
+- 🧪 DevSecOps com pipelines automatizadas
+- 🧱 SOA como filosofia de vida
+- 🐳 Docker em tudo (até no micro-ondas)
+- 🔁 GitFlow sem enrolação
+- ⚙️ RPA + Web scraping + automações com Python
+- 🚀 CI/CD raiz no GitHub Actions e Jenkins
+- 🧼 Organização em camadas com Clean Architecture
+
+---
+
+## 📞 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-santos-do-nascimento-85046434b)
+- [WhatsApp](https://wa.me/5566992463778)
+
+---
+
+## 📜 Licença
+
+MIT License © Gabriel Santos do Nascimento
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer&text=Hackeando%20o%20mundo%20uma%20linha%20de%20código%20por%20vez!&fontColor=0f0f0f&fontSize=18" />
+</p>
