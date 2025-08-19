@@ -1,67 +1,69 @@
-<!-- README.md - Perfil Topzera do Gabriel - Estilo Hacker Dark -->
+# Olá! Eu sou o Gabriel Santos 👋
 
-<h1 align="center">Gabriel Santos do Nascimento 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Entusiasta+DevSecOps;Sempre+Aprendendo" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+aprendizagem+constante;Python+🐍+|+Java+☕+|+Docker+🐳+|+DevSecOps+🔐;Tecnologia+com+propósito+social+e+inteligência+estratégica!" />
-</p>
+## 👨‍💻 Sobre Mim
 
----
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções robustas e escaláveis. Atualmente me especializo em desenvolvimento backend e práticas DevSecOps.
 
-<p align="center">
-  <strong>💻 Dev focado em backend, apaixonado por arquitetura, segurança e automação</strong><br>
-  <strong>🔐 DevSecOps | ☁️ Docker/K8s Lover | 🧠 SOA e Big Data Enthusiast</strong><br>
-  <strong>🎓 Estudante de ADS | 🧩 Full Stack por necessidade, Backend por paixão ⚙️</strong>
-</p>
+### 🎯 Foco Principal
+- Desenvolvimento Backend
+- Automação de Processos
+- Arquitetura de Software
+- Segurança da Informação
 
----
+## 🚀 Minhas Habilidades
 
-## 🧠 Sobre mim
+### 💻 Tecnologias
+```python
+tech_stack = {
+    "Linguagens": ["Python", "Java", "JavaScript"],
+    "DevOps": ["Docker", "Kubernetes", "GitHub Actions", "Jenkins"],
+    "Frameworks": ["FastAPI", "Selenium"],
+    "Banco de Dados": ["PostgreSQL", "SQLite"],
+    "Ferramentas": ["VS Code", "Git", "Linux", "Figma"]
+}
+```
 
-- 🔍 Explorador nato da tecnologia
-- 📚 Estudando **SOA**, **Arquitetura Limpa**, **Clusters com Docker**, **Big Data** e **XP**
-- 🚀 Buscando minha primeira oportunidade no mundo tech!
-- 🧠 Hacker ético autodidata: aprendo quebrando e reconstruindo melhor
-- 🤝 Acredito que **código muda vidas** quando usado com propósito
+### 🛠️ Metodologias
+- Clean Architecture
+- SOA (Arquitetura Orientada a Serviços)
+- Práticas Ágeis (Scrum, Kanban, XP)
+- DevSecOps
 
----
+## 📊 Estatísticas do GitHub
 
-## 💼 Skills & Ferramentas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel9908&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel9908&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔧 Linguagens: Python, Java, JavaScript, HTML, CSS
-- ☁️ DevOps: Docker, Kubernetes, GitHub Actions, Jenkins
-- 🛠️ Frameworks & libs: FastAPI, Selenium (sem exageros)
-- 🧠 Banco de Dados: PostgreSQL, SQLite
-- 💻 IDEs & Ferramentas: VSCode, Git, GitHub, Figma, Linux
+## 🤝 Vamos nos Conectar?
 
----
-
-## 🛠️ Metodologias e Conceitos
-
-- 📌 Scrum, Kanban e XP
-- 🧪 DevSecOps com pipelines automatizadas
-- 🧱 SOA como filosofia de vida
-- 🐳 Docker em tudo (até no micro-ondas)
-- 🔁 GitFlow sem enrolação
-- ⚙️ RPA + Web scraping + automações com Python
-- 🚀 CI/CD raiz no GitHub Actions e Jenkins
-- 🧼 Organização em camadas com Clean Architecture
-
----
-
-## 📞 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/gabriel-santos-do-nascimento-85046434b)
-- [WhatsApp](https://wa.me/5566992463778)
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-santos-do-nascimento-85046434b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/5566992463778" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+</div>
 
 ---
 
-## 📜 Licença
+Para tornar este README ainda mais personalizado, me conte:
 
-MIT License © Gabriel Santos do Nascimento
+- Quais projetos você gostaria de destacar?
+- Tem alguma certificação ou conquista especial?
+- Quer adicionar mais redes sociais?
+- Tem algum objetivo profissional específico que gostaria de compartilhar?
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer&text=Hackeando%20o%20mundo%20uma%20linha%20de%20código%20por%20vez!&fontColor=0f0f0f&fontSize=18" />
-</p>
+> "Transformando ideias em código, um commit de cada vez! 🚀"
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
+</div>
